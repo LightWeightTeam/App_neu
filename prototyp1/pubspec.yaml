@@ -1,0 +1,40 @@
+name: prototyp1
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  charts_flutter: ^0.12.0
+  video_player: ^2.2.14
+  table_calendar: ^3.0.0
+  http: ^1.1.0
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/logo_App.png
+  - assets/login_App.png
+  - assets/Logo_Menu_App.png
+  - assets/hantel_App.png
+  - assets/apfel_App.png
+  - assets/dreiPunkte_App.png
+  - assets/kalender_App.png
+  - assets/logo_white_App.png
+  - assets/Logo_Color_Menu_App.png
+  - assets/google_App.png
+  - assets/search_icon3.png
+  - assets/addmeal_button.png
+  - assets/Hintergrund_1.png
+  - assets/Liegestuetze.mp4
